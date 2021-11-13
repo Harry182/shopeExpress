@@ -1,0 +1,14 @@
+{
+  "name": "apiresful",
+  "version": "1.0.0",
+  "description": "Proyecto de API RESTful con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guadalupe Gomez <markus44p@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
